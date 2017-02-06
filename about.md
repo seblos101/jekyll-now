@@ -12,4 +12,4 @@ I am a 13 year old boy who likes to blog about my IT lessons and who supports Ar
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email me for adive on your blog.com](mailto:sebastianwlos@gmail.com)
