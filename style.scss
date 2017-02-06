@@ -20,7 +20,7 @@ html {
 body {
 	background-image: url("https://media.giphy.com/media/l3zoKeX8bMG5sMP4s/giphy.gif");
   font: $helvetica;
-  //color: $darkGray;
+ color: #ffffff;
  }
 
 .container {
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #63ed07;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
