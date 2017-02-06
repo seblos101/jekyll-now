@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #fffa00;
   }
 }
 
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #fffa00;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #fffa00;
   font-size: 16px;
 
   @include mobile {
