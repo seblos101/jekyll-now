@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Blog 25 (last lesson before christmas!!!)
 layout: post
 author: sebastian.los
 permalink: /untitled-document/
